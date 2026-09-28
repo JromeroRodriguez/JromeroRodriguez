@@ -13,7 +13,8 @@ I work with Python and JavaScript to develop practical software solutions involv
 - Systems Engineering student
 - Junior Software Developer in Training at Riwi
 - Focused on backend development, AI and business automation
-- Experience developing REST APIs and integrating external services
+- Experience developing REST APIs with FastAPI, Node.js and Express.js
+- Experience integrating external APIs and business services
 - Experience with LLMs, RAG, embeddings and semantic search
 - Experience with n8n and Microsoft Power Automate
 - Experience integrating APIs with automated business workflows
@@ -31,14 +32,19 @@ I work with Python and JavaScript to develop practical software solutions involv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
+---
+
 ### Backend
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
 REST APIs · API Integration · Backend Development
+
+---
 
 ### Frontend
 
@@ -47,6 +53,8 @@ REST APIs · API Integration · Backend Development
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
+
+---
 
 ### Databases
 
@@ -157,6 +165,9 @@ Microsoft Power Automate / n8n
 API Integration
         |
         v
+Python / FastAPI / Node.js
+        |
+        v
 Backend Development
         |
         v
@@ -167,4 +178,28 @@ RAG & Semantic Search
         |
         v
 Production-oriented Solutions
+```
 
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/JromeroRodriguez">
+    <img src="https://img.shields.io/badge/GitHub-JromeroRodriguez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/joseph-coder/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:josephteck123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Building software solutions with AI, automation and backend technologies.
+</p>
