@@ -2,9 +2,11 @@
 
 ### Junior Software Developer | AI | Automation | Backend
 
-Systems Engineering student and Junior Developer in Training at Riwi, focused on building backend applications, AI-powered solutions, API integrations and business process automations.
+Systems Engineering professional in training and junior software developer at Riwi, interested in the design, development, and implementation of technological solutions.
 
-I work with Python and JavaScript to develop practical software solutions involving REST APIs, databases, workflow automation, LLM integrations, semantic search and Retrieval-Augmented Generation.
+I have knowledge of various technologies and tools for software development, database management, service integration, and application development. I am interested in exploring new technologies, applying software development best practices, and participating in projects that provide solutions to real-world problems.
+
+I consider myself proactive, committed to continuous professional growth, and focused on constant improvement. My strengths include analytical thinking, problem-solving, critical thinking, adaptability, teamwork, and continuous learning.
 
 ---
 
